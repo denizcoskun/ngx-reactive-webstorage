@@ -1,9 +1,9 @@
-# Reactive WebStorage for Angular
+# Reactive WebStorage for Angular 4 / 5
 
 RxJS powered Reactive storage with the feature of synchronization between `LocalStorage API`.
 
 This library is inspired by the idea from [@ngrx/store](https://github.com/ngrx/platform). The scope of the @ngrx/store has been narrowed to simple add/remove operations for the sake of the quick implementation and less boilerplate.
-All the methods WebStorage API has been preserved within the library. (`setItem`,`getItem`,`removeItem`)
+All the methods from WebStorage API has been preserved within the library. (`setItem`,`getItem`,`removeItem`)
 ## Setup
 Install via [npm](http://npmjs.com) :
 
