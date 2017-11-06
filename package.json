@@ -1,6 +1,6 @@
 {
   "name": "ngx-reactive-webstorage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Angular Reactive WebStorage",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.js",
@@ -53,7 +53,7 @@
   "dependencies": {},
   "peerDependencies": {
     "@angular/core": "^4.0.0 || ^5.0.0",
-    "rxjs": "^5.3.1"    
+    "rxjs": "^5.3.1"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
